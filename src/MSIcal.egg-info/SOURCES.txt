@@ -1,0 +1,8 @@
+README.txt
+setup.py
+src/MSIcal/MSIcal.py
+src/MSIcal/__init__.py
+src/MSIcal.egg-info/PKG-INFO
+src/MSIcal.egg-info/SOURCES.txt
+src/MSIcal.egg-info/dependency_links.txt
+src/MSIcal.egg-info/top_level.txt

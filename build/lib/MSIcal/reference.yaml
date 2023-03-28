@@ -1,0 +1,2156 @@
+chr1_1684347:
+ id: chr1_1684347
+ geneName: NADK
+ chr: chr1
+ site: 1684347
+ sequence: CCCT
+ length: 4
+chr1_33402334:
+ id: chr1_33402334
+ geneName: RNF19B
+ chr: chr1
+ site: 33402334
+ sequence: G
+ length: 1
+chr1_54605318:
+ id: chr1_54605318
+ geneName: CDCP2
+ chr: chr1
+ site: 54605318
+ sequence: TGG
+ length: 3
+chr1_81970883:
+ id: chr1_81970883
+ geneName: LOC101927412,LOC101927434
+ chr: chr1
+ site: 81970883
+ sequence: C
+ length: 1
+chr1_94883977:
+ id: chr1_94883977
+ geneName: ABCD3
+ chr: chr1
+ site: 94883977
+ sequence: A
+ length: 1
+chr1_154842199:
+ id: chr1_154842199
+ geneName: KCNN3
+ chr: chr1
+ site: 154842199
+ sequence: GGCTGCTGCTGCTGCT
+ length: 16
+chr1_158580921:
+ id: chr1_158580921
+ geneName: SPTA1
+ chr: chr1
+ site: 158580921
+ sequence: G
+ length: 1
+chr1_169101257:
+ id: chr1_169101257
+ geneName: ATP1B1
+ chr: chr1
+ site: 169101257
+ sequence: ATT
+ length: 3
+chr1_202156135:
+ id: chr1_202156135
+ geneName: PTPRVP
+ chr: chr1
+ site: 202156135
+ sequence: CCCTCGCTCCTCGCTCCTCGCT
+ length: 22
+chr1_209605636:
+ id: chr1_209605636
+ geneName: MIR205HG
+ chr: chr1
+ site: 209605636
+ sequence: T
+ length: 1
+chr1_228646356:
+ id: chr1_228646356
+ geneName: HIST3H2A;HIST3H2BB
+ chr: chr1
+ site: 228646356
+ sequence: C
+ length: 1
+chr1_236714292:
+ id: chr1_236714292
+ geneName: LGALS8
+ chr: chr1
+ site: 236714292
+ sequence: T
+ length: 1
+chr1_247921789:
+ id: chr1_247921789
+ geneName: OR1C1
+ chr: chr1
+ site: 247921789
+ sequence: AGT
+ length: 3
+chr2_17836722:
+ id: chr2_17836722
+ geneName: VSNL1
+ chr: chr2
+ site: 17836722
+ sequence: T
+ length: 1
+chr2_48667951:
+ id: chr2_48667951
+ geneName: PPP1R21
+ chr: chr2
+ site: 48667951
+ sequence: CGCG
+ length: 4
+chr2_71004413:
+ id: chr2_71004413
+ geneName: FIGLA
+ chr: chr2
+ site: 71004413
+ sequence: CA
+ length: 2
+chr2_108520610:
+ id: chr2_108520610
+ geneName: RGPD4,SLC5A7
+ chr: chr2
+ site: 108520610
+ sequence: C
+ length: 1
+chr2_219118831:
+ id: chr2_219118831
+ geneName: ARPC2
+ chr: chr2
+ site: 219118831
+ sequence: T
+ length: 1
+chr3_5025514:
+ id: chr3_5025514
+ geneName: BHLHE40
+ chr: chr3
+ site: 5025514
+ sequence: GGTGT
+ length: 5
+chr3_11685143:
+ id: chr3_11685143
+ geneName: VGLL4
+ chr: chr3
+ site: 11685143
+ sequence: TA
+ length: 2
+chr3_14526667:
+ id: chr3_14526667
+ geneName: SLC6A6
+ chr: chr3
+ site: 14526667
+ sequence: CGTGT
+ length: 5
+chr3_21447901:
+ id: chr3_21447901
+ geneName: VENTXP7
+ chr: chr3
+ site: 21447901
+ sequence: ACC
+ length: 3
+chr3_32568145:
+ id: chr3_32568145
+ geneName: DYNC1LI1
+ chr: chr3
+ site: 32568145
+ sequence: C
+ length: 1
+chr3_40503520:
+ id: chr3_40503520
+ geneName: RPL14
+ chr: chr3
+ site: 40503520
+ sequence: ACTGCTG
+ length: 7
+chr3_65425560:
+ id: chr3_65425560
+ geneName: MAGI1
+ chr: chr3
+ site: 65425560
+ sequence: TCTG
+ length: 4
+chr3_71008341:
+ id: chr3_71008341
+ geneName: FOXP1
+ chr: chr3
+ site: 71008341
+ sequence: GT
+ length: 2
+chr3_112719791:
+ id: chr3_112719791
+ geneName: GTPBP8
+ chr: chr3
+ site: 112719791
+ sequence: C
+ length: 1
+chr3_122606425:
+ id: chr3_122606425
+ geneName: LOC100129550
+ chr: chr3
+ site: 122606425
+ sequence: GA
+ length: 2
+chr3_129252685:
+ id: chr3_129252685
+ geneName: RHO
+ chr: chr3
+ site: 129252685
+ sequence: A
+ length: 1
+chr3_193272442:
+ id: chr3_193272442
+ geneName: ATP13A4-AS1
+ chr: chr3
+ site: 193272442
+ sequence: C
+ length: 1
+chr3_195507242:
+ id: chr3_195507242
+ geneName: MUC4
+ chr: chr3
+ site: 195507242
+ sequence: CTGAGGAAGGGCTGGTGACATGAAGAGGGGTGACGTGACCTGTAGATACTGAGGAAGTGCTGGTGACAGGAAGAGGGGTGGCCTGACCTGTGGATGA
+ length: 97
+chr4_3076603:
+ id: chr4_3076603
+ geneName: HTT
+ chr: chr4
+ site: 3076603
+ sequence: C
+ length: 1
+chr4_69978554:
+ id: chr4_69978554
+ geneName: UGT2B7
+ chr: chr4
+ site: 69978554
+ sequence: CA
+ length: 2
+chr4_85465390:
+ id: chr4_85465390
+ geneName: NKX6-1,CDS1
+ chr: chr4
+ site: 85465390
+ sequence: A
+ length: 1
+chr4_102268034:
+ id: chr4_102268034
+ geneName: PPP3CA
+ chr: chr4
+ site: 102268034
+ sequence: ACGCCGC
+ length: 7
+chr5_17276053:
+ id: chr5_17276053
+ geneName: BASP1
+ chr: chr5
+ site: 17276053
+ sequence: C
+ length: 1
+chr5_21751718:
+ id: chr5_21751718
+ geneName: CDH12
+ chr: chr5
+ site: 21751718
+ sequence: A
+ length: 1
+chr5_56177848:
+ id: chr5_56177848
+ geneName: MAP3K1
+ chr: chr5
+ site: 56177848
+ sequence: T
+ length: 1
+chr5_122165470:
+ id: chr5_122165470
+ geneName: SNX2
+ chr: chr5
+ site: 122165470
+ sequence: T
+ length: 1
+chr5_179528351:
+ id: chr5_179528351
+ geneName: RASGEF1C
+ chr: chr5
+ site: 179528351
+ sequence: T
+ length: 1
+chr6_7249295:
+ id: chr6_7249295
+ geneName: RREB1
+ chr: chr6
+ site: 7249295
+ sequence: T
+ length: 1
+chr6_16327864:
+ id: chr6_16327864
+ geneName: ATXN1
+ chr: chr6
+ site: 16327864
+ sequence: G
+ length: 1
+chr6_26104071:
+ id: chr6_26104071
+ geneName: HIST1H4C
+ chr: chr6
+ site: 26104071
+ sequence: GAAAAA
+ length: 6
+chr6_109954065:
+ id: chr6_109954065
+ geneName: AK9
+ chr: chr6
+ site: 109954065
+ sequence: CATAG
+ length: 5
+chr7_15726117:
+ id: chr7_15726117
+ geneName: MEOX2
+ chr: chr7
+ site: 15726117
+ sequence: ATT
+ length: 3
+chr7_29771546:
+ id: chr7_29771546
+ geneName: DPY19L2P3,WIPF3
+ chr: chr7
+ site: 29771546
+ sequence: C
+ length: 1
+chr7_30030005:
+ id: chr7_30030005
+ geneName: SCRN1
+ chr: chr7
+ site: 30030005
+ sequence: C
+ length: 1
+chr7_30673512:
+ id: chr7_30673512
+ geneName: GARS
+ chr: chr7
+ site: 30673512
+ sequence: T
+ length: 1
+chr7_64639915:
+ id: chr7_64639915
+ geneName: CCT6P3,ZNF92
+ chr: chr7
+ site: 64639915
+ sequence: A
+ length: 1
+chr7_65419353:
+ id: chr7_65419353
+ geneName: VKORC1L1
+ chr: chr7
+ site: 65419353
+ sequence: TTTA
+ length: 4
+chr7_94989255:
+ id: chr7_94989255
+ geneName: PON3
+ chr: chr7
+ site: 94989255
+ sequence: C
+ length: 1
+chr8_11666218:
+ id: chr8_11666218
+ geneName: FDFT1
+ chr: chr8
+ site: 11666218
+ sequence: G
+ length: 1
+chr8_27661066:
+ id: chr8_27661066
+ geneName: ESCO2
+ chr: chr8
+ site: 27661066
+ sequence: TAC
+ length: 3
+chr8_38827460:
+ id: chr8_38827460
+ geneName: PLEKHA2
+ chr: chr8
+ site: 38827460
+ sequence: CTGTG
+ length: 5
+chr8_38845644:
+ id: chr8_38845644
+ geneName: HTRA4
+ chr: chr8
+ site: 38845644
+ sequence: TAA
+ length: 3
+chr8_131792607:
+ id: chr8_131792607
+ geneName: ADCY8
+ chr: chr8
+ site: 131792607
+ sequence: CA
+ length: 2
+chr9_12775861:
+ id: chr9_12775861
+ geneName: LURAP1L
+ chr: chr9
+ site: 12775861
+ sequence: TGGCGGCGGC
+ length: 10
+chr9_36216324:
+ id: chr9_36216324
+ geneName: GNE
+ chr: chr9
+ site: 36216324
+ sequence: A
+ length: 1
+chr9_115142330:
+ id: chr9_115142330
+ geneName: HSDL2
+ chr: chr9
+ site: 115142330
+ sequence: C
+ length: 1
+chr9_119160758:
+ id: chr9_119160758
+ geneName: PAPPA-AS1
+ chr: chr9
+ site: 119160758
+ sequence: TA
+ length: 2
+chr10_18834797:
+ id: chr10_18834797
+ geneName: NSUN6
+ chr: chr10
+ site: 18834797
+ sequence: TAAAAAAA
+ length: 8
+chr10_50534969:
+ id: chr10_50534969
+ geneName: C10orf71
+ chr: chr10
+ site: 50534969
+ sequence: AACACACACACAC
+ length: 13
+chr10_95718361:
+ id: chr10_95718361
+ geneName: PIPSL
+ chr: chr10
+ site: 95718361
+ sequence: T
+ length: 1
+chr10_112657916:
+ id: chr10_112657916
+ geneName: PDCD4
+ chr: chr10
+ site: 112657916
+ sequence: G
+ length: 1
+chr11_26581382:
+ id: chr11_26581382
+ geneName: MUC15
+ chr: chr11
+ site: 26581382
+ sequence: T
+ length: 1
+chr11_65273568:
+ id: chr11_65273568
+ geneName: MALAT1
+ chr: chr11
+ site: 65273568
+ sequence: T
+ length: 1
+chr11_67192332:
+ id: chr11_67192332
+ geneName: CARNS1
+ chr: chr11
+ site: 67192332
+ sequence: C
+ length: 1
+chr11_94730403:
+ id: chr11_94730403
+ geneName: KDM4D
+ chr: chr11
+ site: 94730403
+ sequence: CA
+ length: 2
+chr11_117772787:
+ id: chr11_117772787
+ geneName: TMPRSS13
+ chr: chr11
+ site: 117772787
+ sequence: G
+ length: 1
+chr12_6777069:
+ id: chr12_6777069
+ geneName: ZNF384
+ chr: chr12
+ site: 6777069
+ sequence: T
+ length: 1
+chr12_7045891:
+ id: chr12_7045891
+ geneName: ATN1
+ chr: chr12
+ site: 7045891
+ sequence: A
+ length: 1
+chr12_8608482:
+ id: chr12_8608482
+ geneName: CLEC6A
+ chr: chr12
+ site: 8608482
+ sequence: GTTTT
+ length: 5
+chr12_49316942:
+ id: chr12_49316942
+ geneName: FKBP11
+ chr: chr12
+ site: 49316942
+ sequence: AAAG
+ length: 4
+chr12_51640388:
+ id: chr12_51640388
+ geneName: DAZAP2
+ chr: chr12
+ site: 51640388
+ sequence: CTGTG
+ length: 5
+chr12_63359803:
+ id: chr12_63359803
+ geneName: PPM1H,AVPR1A
+ chr: chr12
+ site: 63359803
+ sequence: TA
+ length: 2
+chr12_121678327:
+ id: chr12_121678327
+ geneName: CAMKK2
+ chr: chr12
+ site: 121678327
+ sequence: CTTT
+ length: 4
+chr12_124069111:
+ id: chr12_124069111
+ geneName: TMED2
+ chr: chr12
+ site: 124069111
+ sequence: G
+ length: 1
+chr12_124887058:
+ id: chr12_124887058
+ geneName: NCOR2
+ chr: chr12
+ site: 124887058
+ sequence: GGCT
+ length: 4
+chr13_72014625:
+ id: chr13_72014625
+ geneName: DACH1
+ chr: chr13
+ site: 72014625
+ sequence: CT
+ length: 2
+chr14_23744800:
+ id: chr14_23744800
+ geneName: HOMEZ
+ chr: chr14
+ site: 23744800
+ sequence: A
+ length: 1
+chr14_24635589:
+ id: chr14_24635589
+ geneName: IRF9
+ chr: chr14
+ site: 24635589
+ sequence: CT
+ length: 2
+chr14_60759367:
+ id: chr14_60759367
+ geneName: PPM1A
+ chr: chr14
+ site: 60759367
+ sequence: A
+ length: 1
+chr14_92588155:
+ id: chr14_92588155
+ geneName: CPSF2,NDUFB1
+ chr: chr14
+ site: 92588155
+ sequence: A
+ length: 1
+chr14_96998621:
+ id: chr14_96998621
+ geneName: PAPOLA
+ chr: chr14
+ site: 96998621
+ sequence: T
+ length: 1
+chr15_49620971:
+ id: chr15_49620971
+ geneName: GALK2
+ chr: chr15
+ site: 49620971
+ sequence: A
+ length: 1
+chr15_68500317:
+ id: chr15_68500317
+ geneName: CLN6
+ chr: chr15
+ site: 68500317
+ sequence: GAC
+ length: 3
+chr15_96881004:
+ id: chr15_96881004
+ geneName: NR2F2
+ chr: chr15
+ site: 96881004
+ sequence: C
+ length: 1
+chr16_7760846:
+ id: chr16_7760846
+ geneName: RBFOX1
+ chr: chr16
+ site: 7760846
+ sequence: TA
+ length: 2
+chr16_29376400:
+ id: chr16_29376400
+ geneName: SNX29P2
+ chr: chr16
+ site: 29376400
+ sequence: C
+ length: 1
+chr16_56718015:
+ id: chr16_56718015
+ geneName: MT1X
+ chr: chr16
+ site: 56718015
+ sequence: A
+ length: 1
+chr16_66757487:
+ id: chr16_66757487
+ geneName: DYNC1LI2
+ chr: chr16
+ site: 66757487
+ sequence: GT
+ length: 2
+chr16_68598744:
+ id: chr16_68598744
+ geneName: ZFP90
+ chr: chr16
+ site: 68598744
+ sequence: ATTT
+ length: 4
+chr16_79628536:
+ id: chr16_79628536
+ geneName: MAF
+ chr: chr16
+ site: 79628536
+ sequence: A
+ length: 1
+chr17_6928019:
+ id: chr17_6928019
+ geneName: BCL6B
+ chr: chr17
+ site: 6928019
+ sequence: CCAG
+ length: 4
+chr17_13399486:
+ id: chr17_13399486
+ geneName: HS3ST3A1
+ chr: chr17
+ site: 13399486
+ sequence: ATT
+ length: 3
+chr17_15406123:
+ id: chr17_15406123
+ geneName: TVP23C
+ chr: chr17
+ site: 15406123
+ sequence: C
+ length: 1
+chr17_40462796:
+ id: chr17_40462796
+ geneName: STAT5A
+ chr: chr17
+ site: 40462796
+ sequence: T
+ length: 1
+chr17_60366787:
+ id: chr17_60366787
+ geneName: TBC1D3P2,EFCAB3
+ chr: chr17
+ site: 60366787
+ sequence: C
+ length: 1
+chr18_12986802:
+ id: chr18_12986802
+ geneName: SEH1L
+ chr: chr18
+ site: 12986802
+ sequence: GT
+ length: 2
+chr18_55685891:
+ id: chr18_55685891
+ geneName: ATP8B1,NEDD4L
+ chr: chr18
+ site: 55685891
+ sequence: C
+ length: 1
+chr19_501743:
+ id: chr19_501743
+ geneName: MADCAM1
+ chr: chr19
+ site: 501743
+ sequence: TCTCCCGACACCACCTCCCAGGAGCCTCCCGACACCACCTCCCAGGAGC
+ length: 49
+chr19_14992178:
+ id: chr19_14992178
+ geneName: OR7A17
+ chr: chr19
+ site: 14992178
+ sequence: C
+ length: 1
+chr19_24010928:
+ id: chr19_24010928
+ geneName: RPSAP58
+ chr: chr19
+ site: 24010928
+ sequence: AAAAG
+ length: 5
+chr19_44471632:
+ id: chr19_44471632
+ geneName: ZNF221
+ chr: chr19
+ site: 44471632
+ sequence: C
+ length: 1
+chr19_46214700:
+ id: chr19_46214700
+ geneName: FBXO46
+ chr: chr19
+ site: 46214700
+ sequence: T
+ length: 1
+chr19_58118715:
+ id: chr19_58118715
+ geneName: ZNF530
+ chr: chr19
+ site: 58118715
+ sequence: C
+ length: 1
+chr20_44141201:
+ id: chr20_44141201
+ geneName: SPINT3
+ chr: chr20
+ site: 44141201
+ sequence: T
+ length: 1
+chr22_23505101:
+ id: chr22_23505101
+ geneName: RAB36
+ chr: chr22
+ site: 23505101
+ sequence: CT
+ length: 2
+chr22_39636899:
+ id: chr22_39636899
+ geneName: PDGFB
+ chr: chr22
+ site: 39636899
+ sequence: G
+ length: 1
+chr22_42390887:
+ id: chr22_42390887
+ geneName: SEPT3
+ chr: chr22
+ site: 42390887
+ sequence: CTGTG
+ length: 5
+chr22_43035849:
+ id: chr22_43035849
+ geneName: ATP5L2
+ chr: chr22
+ site: 43035849
+ sequence: C
+ length: 1
+chrX_78616443:
+ id: chrX_78616443
+ geneName: ITM2A
+ chr: chrX
+ site: 78616443
+ sequence: GT
+ length: 2
+chrX_99930886:
+ id: chrX_99930886
+ geneName: SYTL4
+ chr: chrX
+ site: 99930886
+ sequence: TAC
+ length: 3
+chrX_118673493:
+ id: chrX_118673493
+ geneName: CXorf56
+ chr: chrX
+ site: 118673493
+ sequence: C
+ length: 1
+chr2_20401858:
+ id: chr2_20401858
+ geneName: SDC1
+ chr: chr2
+ site: 20401858
+ sequence: T
+ length: 1
+chr1_81967466:
+ id: chr1_81967466
+ geneName: LOC101927412,LOC101927434
+ chr: chr1
+ site: 81967466
+ sequence: TCAG
+ length: 4
+chr16_29910431:
+ id: chr16_29910431
+ geneName: SEZ6L2
+ chr: chr16
+ site: 29910431
+ sequence: G
+ length: 1
+chr3_45636270:
+ id: chr3_45636270
+ geneName: LIMD1
+ chr: chr3
+ site: 45636270
+ sequence: A
+ length: 1
+chr19_44047493:
+ id: chr19_44047493
+ geneName: XRCC1
+ chr: chr19
+ site: 44047493
+ sequence: C
+ length: 1
+chr12_125478381:
+ id: chr12_125478381
+ geneName: BRI3BP
+ chr: chr12
+ site: 125478381
+ sequence: CCTG
+ length: 4
+chr19_16136528:
+ id: chr19_16136528
+ geneName: LINC00661
+ chr: chr19
+ site: 16136528
+ sequence: GCAGCACCTGGC
+ length: 12
+chr7_121513382:
+ id: chr7_121513382
+ geneName: PTPRZ1
+ chr: chr7
+ site: 121513382
+ sequence: T
+ length: 1
+chr8_69143712:
+ id: chr8_69143712
+ geneName: PREX2
+ chr: chr8
+ site: 69143712
+ sequence: C
+ length: 1
+chr20_48599473:
+ id: chr20_48599473
+ geneName: SNAI1
+ chr: chr20
+ site: 48599473
+ sequence: A
+ length: 1
+chr10_81343060:
+ id: chr10_81343060
+ geneName: SFTPA2,SFTPA1
+ chr: chr10
+ site: 81343060
+ sequence: GCCAAGAACACATTATGGGCAGAGAGAAAGCTCACACTT
+ length: 39
+chr8_41297486:
+ id: chr8_41297486
+ geneName: SFRP1,GOLGA7
+ chr: chr8
+ site: 41297486
+ sequence: TTTTG
+ length: 5
+chr2_96049917:
+ id: chr2_96049917
+ geneName: KCNIP3
+ chr: chr2
+ site: 96049917
+ sequence: TAC
+ length: 3
+chr16_56226638:
+ id: chr16_56226638
+ geneName: DKFZP434H168
+ chr: chr16
+ site: 56226638
+ sequence: GCA
+ length: 3
+chr17_72889676:
+ id: chr17_72889676
+ geneName: FADS6
+ chr: chr17
+ site: 72889676
+ sequence: GGGCTCCGTAGGTTCCATGGGCTCCGTAGGTTCCATGGGCTCCGTAGGTTCCATC
+ length: 55
+chr9_125797918:
+ id: chr9_125797918
+ geneName: GPR21
+ chr: chr9
+ site: 125797918
+ sequence: C
+ length: 1
+chr4_147560457:
+ id: chr4_147560457
+ geneName: POU4F2
+ chr: chr4
+ site: 147560457
+ sequence: TGGC
+ length: 4
+chr12_112036753:
+ id: chr12_112036753
+ geneName: ATXN2
+ chr: chr12
+ site: 112036753
+ sequence: G
+ length: 1
+chr17_26850810:
+ id: chr17_26850810
+ geneName: FOXN1
+ chr: chr17
+ site: 26850810
+ sequence: T
+ length: 1
+chr8_105264087:
+ id: chr8_105264087
+ geneName: RIMS2
+ chr: chr8
+ site: 105264087
+ sequence: CA
+ length: 2
+chr2_31489627:
+ id: chr2_31489627
+ geneName: EHD3
+ chr: chr2
+ site: 31489627
+ sequence: T
+ length: 1
+chr12_15067511:
+ id: chr12_15067511
+ geneName: ERP27
+ chr: chr12
+ site: 15067511
+ sequence: TGTGC
+ length: 5
+chr7_27147451:
+ id: chr7_27147451
+ geneName: HOXA3
+ chr: chr7
+ site: 27147451
+ sequence: T
+ length: 1
+chr12_103352171:
+ id: chr12_103352171
+ geneName: ASCL1
+ chr: chr12
+ site: 103352171
+ sequence: CGCAGCAGCA
+ length: 10
+chr2_223066536:
+ id: chr2_223066536
+ geneName: PAX3
+ chr: chr2
+ site: 223066536
+ sequence: CA
+ length: 2
+chrX_66765158:
+ id: chrX_66765158
+ geneName: AR
+ chr: chrX
+ site: 66765158
+ sequence: T
+ length: 1
+chr2_241696840:
+ id: chr2_241696840
+ geneName: KIF1A
+ chr: chr2
+ site: 241696840
+ sequence: A
+ length: 1
+chr6_82461727:
+ id: chr6_82461727
+ geneName: FAM46A
+ chr: chr6
+ site: 82461727
+ sequence: ACCGCCGAAGTCGCCG
+ length: 16
+chr11_111637117:
+ id: chr11_111637117
+ geneName: PPP2R1B
+ chr: chr11
+ site: 111637117
+ sequence: TCCCGCCCCGCGCCCAGGC
+ length: 19
+chr17_40905931:
+ id: chr17_40905931
+ geneName: RAMP2-AS1
+ chr: chr17
+ site: 40905931
+ sequence: C
+ length: 1
+chr3_119348345:
+ id: chr3_119348345
+ geneName: PLA1A
+ chr: chr3
+ site: 119348345
+ sequence: ATT
+ length: 3
+chr6_125144525:
+ id: chr6_125144525
+ geneName: NKAIN2
+ chr: chr6
+ site: 125144525
+ sequence: G
+ length: 1
+chr19_11257756:
+ id: chr19_11257756
+ geneName: SPC24
+ chr: chr19
+ site: 11257756
+ sequence: CA
+ length: 2
+chr13_21729952:
+ id: chr13_21729952
+ geneName: SKA3
+ chr: chr13
+ site: 21729952
+ sequence: TAA
+ length: 3
+chr11_85374467:
+ id: chr11_85374467
+ geneName: CREBZF
+ chr: chr11
+ site: 85374467
+ sequence: G
+ length: 1
+chr7_103629803:
+ id: chr7_103629803
+ geneName: RELN
+ chr: chr7
+ site: 103629803
+ sequence: TGCCGCC
+ length: 7
+chr13_33349235:
+ id: chr13_33349235
+ geneName: PDS5B
+ chr: chr13
+ site: 33349235
+ sequence: CTTT
+ length: 4
+chr17_32965285:
+ id: chr17_32965285
+ geneName: TMEM132E
+ chr: chr17
+ site: 32965285
+ sequence: CA
+ length: 2
+chr11_12316344:
+ id: chr11_12316344
+ geneName: MICALCL
+ chr: chr11
+ site: 12316344
+ sequence: GCTC
+ length: 4
+chr12_48174351:
+ id: chr12_48174351
+ geneName: SLC48A1
+ chr: chr12
+ site: 48174351
+ sequence: CT
+ length: 2
+chr6_51274751:
+ id: chr6_51274751
+ geneName: TFAP2B,PKHD1
+ chr: chr6
+ site: 51274751
+ sequence: C
+ length: 1
+chr22_42354487:
+ id: chr22_42354487
+ geneName: LINC00634
+ chr: chr22
+ site: 42354487
+ sequence: G
+ length: 1
+chr3_124732419:
+ id: chr3_124732419
+ geneName: HEG1
+ chr: chr3
+ site: 124732419
+ sequence: AGAGGAGGAGGAGGAAGAG
+ length: 19
+chr17_47925054:
+ id: chr17_47925054
+ geneName: FLJ45513
+ chr: chr17
+ site: 47925054
+ sequence: G
+ length: 1
+chr15_22414393:
+ id: chr15_22414393
+ geneName: OR4N3P
+ chr: chr15
+ site: 22414393
+ sequence: CA
+ length: 2
+chr7_7712941:
+ id: chr7_7712941
+ geneName: UMAD1
+ chr: chr7
+ site: 7712941
+ sequence: T
+ length: 1
+chr14_105996049:
+ id: chr14_105996049
+ geneName: TMEM121
+ chr: chr14
+ site: 105996049
+ sequence: T
+ length: 1
+chr16_2949269:
+ id: chr16_2949269
+ geneName: FLYWCH2
+ chr: chr16
+ site: 2949269
+ sequence: C
+ length: 1
+chr12_56415078:
+ id: chr12_56415078
+ geneName: IKZF4
+ chr: chr12
+ site: 56415078
+ sequence: TCACA
+ length: 5
+chr20_44512744:
+ id: chr20_44512744
+ geneName: ZSWIM1
+ chr: chr20
+ site: 44512744
+ sequence: T
+ length: 1
+chr19_1037968:
+ id: chr19_1037968
+ geneName: CNN2
+ chr: chr19
+ site: 1037968
+ sequence: CT
+ length: 2
+chr1_1850627:
+ id: chr1_1850627
+ geneName: TMEM52
+ chr: chr1
+ site: 1850627
+ sequence: C
+ length: 1
+chr1_15438825:
+ id: chr1_15438825
+ geneName: TMEM51-AS1
+ chr: chr1
+ site: 15438825
+ sequence: A
+ length: 1
+chr1_31732602:
+ id: chr1_31732602
+ geneName: SNRNP40
+ chr: chr1
+ site: 31732602
+ sequence: C
+ length: 1
+chr1_149900985:
+ id: chr1_149900985
+ geneName: MTMR11
+ chr: chr1
+ site: 149900985
+ sequence: C
+ length: 1
+chr1_161184059:
+ id: chr1_161184059
+ geneName: NDUFS2
+ chr: chr1
+ site: 161184059
+ sequence: CTG
+ length: 3
+chr2_7046272:
+ id: chr2_7046272
+ geneName: RSAD2,RNF144A-AS1
+ chr: chr2
+ site: 7046272
+ sequence: T
+ length: 1
+chr2_7050483:
+ id: chr2_7050483
+ geneName: RSAD2,RNF144A-AS1
+ chr: chr2
+ site: 7050483
+ sequence: ATGTGTG
+ length: 7
+chr2_7403641:
+ id: chr2_7403641
+ geneName: LOC101929452,LOC100506274
+ chr: chr2
+ site: 7403641
+ sequence: TAC
+ length: 3
+chr2_7409989:
+ id: chr2_7409989
+ geneName: LOC101929452,LOC100506274
+ chr: chr2
+ site: 7409989
+ sequence: T
+ length: 1
+chr2_20729143:
+ id: chr2_20729143
+ geneName: RHOB,HS1BP3-IT1
+ chr: chr2
+ site: 20729143
+ sequence: CTT
+ length: 3
+chr2_20867122:
+ id: chr2_20867122
+ geneName: GDF7
+ chr: chr2
+ site: 20867122
+ sequence: GGGCGGCGGC
+ length: 10
+chr2_44545234:
+ id: chr2_44545234
+ geneName: PREPL
+ chr: chr2
+ site: 44545234
+ sequence: G
+ length: 1
+chr2_73613031:
+ id: chr2_73613031
+ geneName: ALMS1
+ chr: chr2
+ site: 73613031
+ sequence: TGGA
+ length: 4
+chr2_99918180:
+ id: chr2_99918180
+ geneName: LYG1
+ chr: chr2
+ site: 99918180
+ sequence: CAA
+ length: 3
+chr2_113480938:
+ id: chr2_113480938
+ geneName: SLC20A1,CKAP2L
+ chr: chr2
+ site: 113480938
+ sequence: GCACACACACACACA
+ length: 15
+chr2_197854233:
+ id: chr2_197854233
+ geneName: ANKRD44
+ chr: chr2
+ site: 197854233
+ sequence: TAC
+ length: 3
+chr3_27763427:
+ id: chr3_27763427
+ geneName: EOMES
+ chr: chr3
+ site: 27763427
+ sequence: GCGGCGC
+ length: 7
+chr3_42251577:
+ id: chr3_42251577
+ geneName: TRAK1
+ chr: chr3
+ site: 42251577
+ sequence: CGGA
+ length: 4
+chr3_47205502:
+ id: chr3_47205502
+ geneName: KIF9-AS1,SETD2
+ chr: chr3
+ site: 47205502
+ sequence: C
+ length: 1
+chr3_193854148:
+ id: chr3_193854148
+ geneName: HES1
+ chr: chr3
+ site: 193854148
+ sequence: TA
+ length: 2
+chr3_195295708:
+ id: chr3_195295708
+ geneName: APOD
+ chr: chr3
+ site: 195295708
+ sequence: GGGT
+ length: 4
+chr3_195513413:
+ id: chr3_195513413
+ geneName: MUC4
+ chr: chr3
+ site: 195513413
+ sequence: GGGTGGCGTGACCTGTGGATACTGAGGAATTGTCGGTGACAGGAAGAGGGGTGGCGTGACCGGTGGATGCTGAGGAAGTGCTGGTGACAGGAAGAGA
+ length: 97
+chr4_190329166:
+ id: chr4_190329166
+ geneName: LINC01060,LINC01262
+ chr: chr4
+ site: 190329166
+ sequence: GCA
+ length: 3
+chr4_190394938:
+ id: chr4_190394938
+ geneName: LINC01060,LINC01262
+ chr: chr4
+ site: 190394938
+ sequence: C
+ length: 1
+chr5_122359502:
+ id: chr5_122359502
+ geneName: PPIC
+ chr: chr5
+ site: 122359502
+ sequence: AAC
+ length: 3
+chr5_123966143:
+ id: chr5_123966143
+ geneName: LINC01170,ZNF608
+ chr: chr5
+ site: 123966143
+ sequence: A
+ length: 1
+chr5_146258290:
+ id: chr5_146258290
+ geneName: PPP2R2B
+ chr: chr5
+ site: 146258290
+ sequence: AGCTGCTGCT
+ length: 10
+chr5_148207667:
+ id: chr5_148207667
+ geneName: ADRB2
+ chr: chr5
+ site: 148207667
+ sequence: CCG
+ length: 3
+chr5_176981495:
+ id: chr5_176981495
+ geneName: FAM193B
+ chr: chr5
+ site: 176981495
+ sequence: G
+ length: 1
+chr5_177348037:
+ id: chr5_177348037
+ geneName: LOC728554,PROP1
+ chr: chr5
+ site: 177348037
+ sequence: CTTTG
+ length: 5
+chr5_180583039:
+ id: chr5_180583039
+ geneName: OR2V2
+ chr: chr5
+ site: 180583039
+ sequence: GTTCTTTCTTTCTTTCTTTCT
+ length: 21
+chr6_9616231:
+ id: chr6_9616231
+ geneName: LOC100506207,TFAP2A
+ chr: chr6
+ site: 9616231
+ sequence: AGAAGAAGAAGAG
+ length: 13
+chr6_109659589:
+ id: chr6_109659589
+ geneName: CCDC162P,CD164
+ chr: chr6
+ site: 109659589
+ sequence: T
+ length: 1
+chr6_125232766:
+ id: chr6_125232766
+ geneName: RNF217-AS1
+ chr: chr6
+ site: 125232766
+ sequence: CA
+ length: 2
+chr6_167907677:
+ id: chr6_167907677
+ geneName: TCP10,LOC401286
+ chr: chr6
+ site: 167907677
+ sequence: TACAC
+ length: 5
+chr7_5487160:
+ id: chr7_5487160
+ geneName: TNRC18,FBXL18
+ chr: chr7
+ site: 5487160
+ sequence: G
+ length: 1
+chr7_63033167:
+ id: chr7_63033167
+ geneName: LOC100287834,MIR4283-2
+ chr: chr7
+ site: 63033167
+ sequence: TGAG
+ length: 4
+chr7_64498715:
+ id: chr7_64498715
+ geneName: CCT6P3
+ chr: chr7
+ site: 64498715
+ sequence: TGGAGGCGGAG
+ length: 11
+chr7_87257900:
+ id: chr7_87257900
+ geneName: RUNDC3B
+ chr: chr7
+ site: 87257900
+ sequence: C
+ length: 1
+chr7_97619528:
+ id: chr7_97619528
+ geneName: OCM2
+ chr: chr7
+ site: 97619528
+ sequence: A
+ length: 1
+chr7_130418883:
+ id: chr7_130418883
+ geneName: KLF14
+ chr: chr7
+ site: 130418883
+ sequence: CGAGCGCCGTCCGAACGCGGCCGGCCGCGGGCGACGGAGTTCCCGGGAGCGTCCGTCCCGCAGCCTCG
+ length: 68
+chr7_140702199:
+ id: chr7_140702199
+ geneName: BRAF,MRPS33
+ chr: chr7
+ site: 140702199
+ sequence: CTT
+ length: 3
+chr7_142120168:
+ id: chr7_142120168
+ geneName: TRY2P,MTRNR2L6
+ chr: chr7
+ site: 142120168
+ sequence: TCA
+ length: 3
+chr7_142139624:
+ id: chr7_142139624
+ geneName: TRY2P,MTRNR2L6
+ chr: chr7
+ site: 142139624
+ sequence: GCACA
+ length: 5
+chr8_22990193:
+ id: chr8_22990193
+ geneName: TNFRSF10C,TNFRSF10D
+ chr: chr8
+ site: 22990193
+ sequence: T
+ length: 1
+chr8_98787752:
+ id: chr8_98787752
+ geneName: LAPTM4B
+ chr: chr8
+ site: 98787752
+ sequence: C
+ length: 1
+chr8_106331094:
+ id: chr8_106331094
+ geneName: ZFPM2
+ chr: chr8
+ site: 106331094
+ sequence: GGCGGCGGGA
+ length: 10
+chr9_16418871:
+ id: chr9_16418871
+ geneName: BNC2
+ chr: chr9
+ site: 16418871
+ sequence: GCACACACA
+ length: 9
+chr9_37887570:
+ id: chr9_37887570
+ geneName: SLC25A51
+ chr: chr9
+ site: 37887570
+ sequence: T
+ length: 1
+chr9_66457192:
+ id: chr9_66457192
+ geneName: LINC01410
+ chr: chr9
+ site: 66457192
+ sequence: T
+ length: 1
+chr9_95237024:
+ id: chr9_95237024
+ geneName: ASPN
+ chr: chr9
+ site: 95237024
+ sequence: C
+ length: 1
+chr9_95527083:
+ id: chr9_95527083
+ geneName: BICD2
+ chr: chr9
+ site: 95527083
+ sequence: AGCCGCC
+ length: 7
+chr9_132903767:
+ id: chr9_132903767
+ geneName: GPR107,NCS1
+ chr: chr9
+ site: 132903767
+ sequence: T
+ length: 1
+chr10_30638208:
+ id: chr10_30638208
+ geneName: MTPAP
+ chr: chr10
+ site: 30638208
+ sequence: T
+ length: 1
+chr10_52751070:
+ id: chr10_52751070
+ geneName: PRKG1
+ chr: chr10
+ site: 52751070
+ sequence: AGCC
+ length: 4
+chr10_65383515:
+ id: chr10_65383515
+ geneName: REEP3
+ chr: chr10
+ site: 65383515
+ sequence: A
+ length: 1
+chr11_9001289:
+ id: chr11_9001289
+ geneName: NRIP3
+ chr: chr11
+ site: 9001289
+ sequence: T
+ length: 1
+chr11_65211734:
+ id: chr11_65211734
+ geneName: NEAT1
+ chr: chr11
+ site: 65211734
+ sequence: C
+ length: 1
+chr11_130298117:
+ id: chr11_130298117
+ geneName: ADAMTS8
+ chr: chr11
+ site: 130298117
+ sequence: G
+ length: 1
+chr12_1703322:
+ id: chr12_1703322
+ geneName: FBXL14
+ chr: chr12
+ site: 1703322
+ sequence: AGCC
+ length: 4
+chr12_8090317:
+ id: chr12_8090317
+ geneName: SLC2A3,FOXJ2
+ chr: chr12
+ site: 8090317
+ sequence: C
+ length: 1
+chr12_13153388:
+ id: chr12_13153388
+ geneName: HTR7P1
+ chr: chr12
+ site: 13153388
+ sequence: GGCAGCAGTGCAGCAGT
+ length: 17
+chr12_55038408:
+ id: chr12_55038408
+ geneName: DCD
+ chr: chr12
+ site: 55038408
+ sequence: A
+ length: 1
+chr12_57610616:
+ id: chr12_57610616
+ geneName: NXPH4
+ chr: chr12
+ site: 57610616
+ sequence: G
+ length: 1
+chr12_125396165:
+ id: chr12_125396165
+ geneName: UBC
+ chr: chr12
+ site: 125396165
+ sequence: T
+ length: 1
+chr12_130521234:
+ id: chr12_130521234
+ geneName: LOC100190940
+ chr: chr12
+ site: 130521234
+ sequence: CAAA
+ length: 4
+chr12_133032047:
+ id: chr12_133032047
+ geneName: LOC101928416,FBRSL1
+ chr: chr12
+ site: 133032047
+ sequence: TGTGTGTGCATGTTGAC
+ length: 17
+chr13_111364877:
+ id: chr13_111364877
+ geneName: ING1
+ chr: chr13
+ site: 111364877
+ sequence: AGG
+ length: 3
+chr14_20086382:
+ id: chr14_20086382
+ geneName: POTEM,OR11H2
+ chr: chr14
+ site: 20086382
+ sequence: TAAAA
+ length: 5
+chr14_20344373:
+ id: chr14_20344373
+ geneName: OR4K2
+ chr: chr14
+ site: 20344373
+ sequence: C
+ length: 1
+chr14_22979847:
+ id: chr14_22979847
+ geneName: OR4E1,DAD1
+ chr: chr14
+ site: 22979847
+ sequence: GA
+ length: 2
+chr14_23012873:
+ id: chr14_23012873
+ geneName: OR4E1,DAD1
+ chr: chr14
+ site: 23012873
+ sequence: C
+ length: 1
+chr14_60530160:
+ id: chr14_60530160
+ geneName: LRRC9
+ chr: chr14
+ site: 60530160
+ sequence: T
+ length: 1
+chr14_69328777:
+ id: chr14_69328777
+ geneName: ZFP36L1,ACTN1
+ chr: chr14
+ site: 69328777
+ sequence: CT
+ length: 2
+chr14_106329453:
+ id: chr14_106329453
+ geneName: MIR4539,KIAA0125
+ chr: chr14
+ site: 106329453
+ sequence: ACC
+ length: 3
+chr15_20464736:
+ id: chr15_20464736
+ geneName: NONE,CHEK2P2
+ chr: chr15
+ site: 20464736
+ sequence: C
+ length: 1
+chr15_23686045:
+ id: chr15_23686045
+ geneName: GOLGA6L2
+ chr: chr15
+ site: 23686045
+ sequence: ATCTTCTCCTCCTGGCCCCACATCT
+ length: 25
+chr16_10625605:
+ id: chr16_10625605
+ geneName: EMP2
+ chr: chr16
+ site: 10625605
+ sequence: G
+ length: 1
+chr16_19278429:
+ id: chr16_19278429
+ geneName: SYT17
+ chr: chr16
+ site: 19278429
+ sequence: TAA
+ length: 3
+chr16_83873300:
+ id: chr16_83873300
+ geneName: HSBP1,MLYCD
+ chr: chr16
+ site: 83873300
+ sequence: TTG
+ length: 3
+chr16_89119156:
+ id: chr16_89119156
+ geneName: CBFA2T3,ACSF3
+ chr: chr16
+ site: 89119156
+ sequence: C
+ length: 1
+chr16_90095597:
+ id: chr16_90095597
+ geneName: GAS8-AS1
+ chr: chr16
+ site: 90095597
+ sequence: TGGGGCAGCCTACGGGGCAGGCTGC
+ length: 25
+chr17_4442639:
+ id: chr17_4442639
+ geneName: MYBBP1A,SPNS2
+ chr: chr17
+ site: 4442639
+ sequence: T
+ length: 1
+chr17_15468765:
+ id: chr17_15468765
+ geneName: CDRT1
+ chr: chr17
+ site: 15468765
+ sequence: C
+ length: 1
+chr17_16256686:
+ id: chr17_16256686
+ geneName: CENPV
+ chr: chr17
+ site: 16256686
+ sequence: GCGGAGGCCC
+ length: 10
+chr17_17714717:
+ id: chr17_17714717
+ geneName: RAI1,SREBF1
+ chr: chr17
+ site: 17714717
+ sequence: G
+ length: 1
+chr17_38296626:
+ id: chr17_38296626
+ geneName: CASC3
+ chr: chr17
+ site: 38296626
+ sequence: A
+ length: 1
+chr17_72206117:
+ id: chr17_72206117
+ geneName: MGC16275,RPL38
+ chr: chr17
+ site: 72206117
+ sequence: C
+ length: 1
+chr17_79372928:
+ id: chr17_79372928
+ geneName: BAHCC1
+ chr: chr17
+ site: 79372928
+ sequence: AGTGT
+ length: 5
+chr18_31158422:
+ id: chr18_31158422
+ geneName: ASXL3
+ chr: chr18
+ site: 31158422
+ sequence: C
+ length: 1
+chr18_55019963:
+ id: chr18_55019963
+ geneName: ST8SIA3
+ chr: chr18
+ site: 55019963
+ sequence: T
+ length: 1
+chr19_633529:
+ id: chr19_633529
+ geneName: POLRMT
+ chr: chr19
+ site: 633529
+ sequence: GGCGCCGCCGCCGCC
+ length: 15
+chr19_6583564:
+ id: chr19_6583564
+ geneName: TNFSF9,CD70
+ chr: chr19
+ site: 6583564
+ sequence: C
+ length: 1
+chr19_13899041:
+ id: chr19_13899041
+ geneName: C19orf53,ZSWIM4
+ chr: chr19
+ site: 13899041
+ sequence: C
+ length: 1
+chr19_16308786:
+ id: chr19_16308786
+ geneName: AP1M1
+ chr: chr19
+ site: 16308786
+ sequence: TCGCTGCCGCCGCCACCGCCCTCGGC
+ length: 26
+chr20_52840743:
+ id: chr20_52840743
+ geneName: PFDN4,DOK5
+ chr: chr20
+ site: 52840743
+ sequence: CTT
+ length: 3
+chr20_59431577:
+ id: chr20_59431577
+ geneName: MIR548AG2,LOC100506470
+ chr: chr20
+ site: 59431577
+ sequence: T
+ length: 1
+chr20_62488889:
+ id: chr20_62488889
+ geneName: ZBTB46-AS1,ABHD16B
+ chr: chr20
+ site: 62488889
+ sequence: C
+ length: 1
+chr21_36422282:
+ id: chr21_36422282
+ geneName: RUNX1
+ chr: chr21
+ site: 36422282
+ sequence: A
+ length: 1
+chr21_40250361:
+ id: chr21_40250361
+ geneName: LOC400867
+ chr: chr21
+ site: 40250361
+ sequence: TAAA
+ length: 4
+chr21_40685515:
+ id: chr21_40685515
+ geneName: BRWD1
+ chr: chr21
+ site: 40685515
+ sequence: G
+ length: 1
+chr22_22712021:
+ id: chr22_22712021
+ geneName: BMS1P20,ZNF280B
+ chr: chr22
+ site: 22712021
+ sequence: CCGGGGA
+ length: 7
+chr22_23114140:
+ id: chr22_23114140
+ geneName: GGTLC2,MIR650
+ chr: chr22
+ site: 23114140
+ sequence: TTC
+ length: 3
+chr22_23114748:
+ id: chr22_23114748
+ geneName: GGTLC2,MIR650
+ chr: chr22
+ site: 23114748
+ sequence: C
+ length: 1
+chr22_24231164:
+ id: chr22_24231164
+ geneName: SLC2A11,MIF-AS1
+ chr: chr22
+ site: 24231164
+ sequence: G
+ length: 1
+chr22_30234192:
+ id: chr22_30234192
+ geneName: ASCC2
+ chr: chr22
+ site: 30234192
+ sequence: T
+ length: 1
+chr22_50882752:
+ id: chr22_50882752
+ geneName: PPP6R2
+ chr: chr22
+ site: 50882752
+ sequence: C
+ length: 1
+chr22_50913394:
+ id: chr22_50913394
+ geneName: SBF1
+ chr: chr22
+ site: 50913394
+ sequence: C
+ length: 1
+chrX_27765399:
+ id: chrX_27765399
+ geneName: DCAF8L2
+ chr: chrX
+ site: 27765399
+ sequence: A
+ length: 1
+chrX_47107350:
+ id: chrX_47107350
+ geneName: USP11
+ chr: chrX
+ site: 47107350
+ sequence: G
+ length: 1
+chrX_148713418:
+ id: chrX_148713418
+ geneName: TMEM185A
+ chr: chrX
+ site: 148713418
+ sequence: TCGCCGC
+ length: 7
+chr1_100817529:
+ id: chr1_100817529
+ geneName: CDC14A
+ chr: chr1
+ site: 100817529
+ sequence: A
+ length: 1
+chr1_111970431:
+ id: chr1_111970431
+ geneName: OVGP1
+ chr: chr1
+ site: 111970431
+ sequence: T
+ length: 1
+chr1_120612040:
+ id: chr1_120612040
+ geneName: NOTCH2
+ chr: chr1
+ site: 120612040
+ sequence: TCCTCCGCCG
+ length: 10
+chr2_132111167:
+ id: chr2_132111167
+ geneName: LOC440910,WTH3DI
+ chr: chr2
+ site: 132111167
+ sequence: GCCGCCGCCGC
+ length: 11
+chr5_21751741:
+ id: chr5_21751741
+ geneName: CDH12
+ chr: chr5
+ site: 21751741
+ sequence: TTGTGTGTGTG
+ length: 11
+chr7_2552881:
+ id: chr7_2552881
+ geneName: LFNG
+ chr: chr7
+ site: 2552881
+ sequence: AGATG
+ length: 5
+chr7_142032115:
+ id: chr7_142032115
+ geneName: TRY2P,MTRNR2L6
+ chr: chr7
+ site: 142032115
+ sequence: C
+ length: 1
+chr9_116022860:
+ id: chr9_116022860
+ geneName: SLC31A1
+ chr: chr9
+ site: 116022860
+ sequence: T
+ length: 1
+chr9_130331257:
+ id: chr9_130331257
+ geneName: FAM129B
+ chr: chr9
+ site: 130331257
+ sequence: C
+ length: 1
+chr9_138899253:
+ id: chr9_138899253
+ geneName: NACC2
+ chr: chr9
+ site: 138899253
+ sequence: GCA
+ length: 3
+chr11_26692594:
+ id: chr11_26692594
+ geneName: SLC5A12
+ chr: chr11
+ site: 26692594
+ sequence: TTGTGTGTGTGTGTG
+ length: 15
+chr12_19671152:
+ id: chr12_19671152
+ geneName: AEBP2
+ chr: chr12
+ site: 19671152
+ sequence: C
+ length: 1
+chr12_20522124:
+ id: chr12_20522124
+ geneName: PDE3A
+ chr: chr12
+ site: 20522124
+ sequence: C
+ length: 1
+chr12_42835328:
+ id: chr12_42835328
+ geneName: PPHLN1
+ chr: chr12
+ site: 42835328
+ sequence: T
+ length: 1
+chr12_116586414:
+ id: chr12_116586414
+ geneName: MIR620
+ chr: chr12
+ site: 116586414
+ sequence: C
+ length: 1
+chr14_73959703:
+ id: chr14_73959703
+ geneName: C14orf169
+ chr: chr14
+ site: 73959703
+ sequence: CTT
+ length: 3
+chr15_31776210:
+ id: chr15_31776210
+ geneName: OTUD7A
+ chr: chr15
+ site: 31776210
+ sequence: T
+ length: 1
+chr15_99192754:
+ id: chr15_99192754
+ geneName: IRAIN
+ chr: chr15
+ site: 99192754
+ sequence: C
+ length: 1
+chr15_100252709:
+ id: chr15_100252709
+ geneName: MEF2A
+ chr: chr15
+ site: 100252709
+ sequence: C
+ length: 1
+chr16_5517175:
+ id: chr16_5517175
+ geneName: EEF2KMT,LINC01570
+ chr: chr16
+ site: 5517175
+ sequence: TTC
+ length: 3
+chr17_7750177:
+ id: chr17_7750177
+ geneName: KDM6B
+ chr: chr17
+ site: 7750177
+ sequence: TACCACC
+ length: 7
+chr17_30469470:
+ id: chr17_30469470
+ geneName: RHOT1
+ chr: chr17
+ site: 30469470
+ sequence: C
+ length: 1
+chr19_1407618:
+ id: chr19_1407618
+ geneName: DAZAP1
+ chr: chr19
+ site: 1407618
+ sequence: AGCC
+ length: 4
+chr19_13318672:
+ id: chr19_13318672
+ geneName: CACNA1A
+ chr: chr19
+ site: 13318672
+ sequence: C
+ length: 1
+chr20_47951040:
+ id: chr20_47951040
+ geneName: ZFAS1,KCNB1
+ chr: chr20
+ site: 47951040
+ sequence: C
+ length: 1
+chr7_128498630:
+ id: chr7_128498630
+ geneName: FLNC
+ chr: chr7
+ site: 128498630
+ sequence: T
+ length: 1
+chr11_1018222:
+ id: chr11_1018222
+ geneName: MUC6
+ chr: chr11
+ site: 1018222
+ sequence: A
+ length: 1
+chr11_105481597:
+ id: chr11_105481597
+ geneName: GRIA4
+ chr: chr11
+ site: 105481597
+ sequence: C
+ length: 1
+chr19_49657710:
+ id: chr19_49657710
+ geneName: HRC
+ chr: chr19
+ site: 49657710
+ sequence: A
+ length: 1
+chr2_118771682:
+ id: chr2_118771682
+ geneName: CCDC93
+ chr: chr2
+ site: 118771682
+ sequence: T
+ length: 1
+chr9_123476542:
+ id: chr9_123476542
+ geneName: MEGF9
+ chr: chr9
+ site: 123476542
+ sequence: A
+ length: 1
+chr9_71629038:
+ id: chr9_71629038
+ geneName: PRKACG
+ chr: chr9
+ site: 71629038
+ sequence: CGCGGCGGCG
+ length: 10

@@ -1,0 +1,8 @@
+README.txt
+setup.py
+src/testabc/__init__.py
+src/testabc/testabc.py
+src/testabc.egg-info/PKG-INFO
+src/testabc.egg-info/SOURCES.txt
+src/testabc.egg-info/dependency_links.txt
+src/testabc.egg-info/top_level.txt

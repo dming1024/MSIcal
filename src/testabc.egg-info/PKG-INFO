@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: testabc
+Version: 203.3
+Summary: test
+Home-page: UNKNOWN
+Author: dming
+Author-email: dongliulou@126.com
+License: MIT Licence
+Description: #README
+        
+Platform: any
+Requires-Python: >=3.6.0
+Description-Content-Type: text/markdown
